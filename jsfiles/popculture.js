@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-    var url = 'http://newsapi.org/v2/top-headlines?country=us&category=entertainment&apiKey=78d8701a362e49b5b7cb20b63d0913a5';
+    var url = 'https://newsapi.org/v2/top-headlines?country=us&category=entertainment&apiKey=78d8701a362e49b5b7cb20b63d0913a5';
 
 
 

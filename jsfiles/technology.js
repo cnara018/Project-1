@@ -1,4 +1,4 @@
-var url = 'http://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=78d8701a362e49b5b7cb20b63d0913a5';
+var url = 'https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=78d8701a362e49b5b7cb20b63d0913a5';
 
 $.get(url).then(function(data) {
     //var content = document.createTextNode(JSON.stringify(data.articles[0]));
