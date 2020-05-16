@@ -1,0 +1,79 @@
+.hide-content {
+    display: none
+}
+
+.top-bar, .top-bar-right{
+    background-color:black;
+}
+
+.menu>li>a
+{
+    color: white;
+    background-color: black;
+}
+.menu button:hover{
+    
+    background-color: rgb(136, 128, 128);
+}
+.menu button
+{
+    background-color: red;
+}
+.menu button, .menu input {
+    margin-bottom: 0;
+    margin-right: auto;
+    
+}
+.row
+{
+    background-color: white;
+}
+.callout.primary
+{
+    background-color: red;
+}
+
+
+h1{
+    font: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    stroke: rgb(248, 248, 248);
+    background-color: red;
+}
+#current
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+.subheader
+{
+    
+    background-color: transparent;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color: white;
+}
+h3{
+    color: red;
+    font-style: initial;
+    font: bolder;
+    font-variant: normal;
+    
+}
+#link-0,#link-1,#link-2,#link-3,#link-4,#link-5
+{
+    font-size: 25px;
+    text-align: right;
+    color: black;   
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
